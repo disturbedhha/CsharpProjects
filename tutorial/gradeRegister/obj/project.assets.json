@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hugh/Documents/csharpProjects/tutorial/hello/hello.csproj",
-      "projectName": "hello",
-      "projectPath": "/home/hugh/Documents/csharpProjects/tutorial/hello/hello.csproj",
+      "projectUniqueName": "/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/gradeRegister.csproj",
+      "projectName": "gradeRegister",
+      "projectPath": "/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/gradeRegister.csproj",
       "packagesPath": "/home/hugh/.nuget/packages/",
-      "outputPath": "/home/hugh/Documents/csharpProjects/tutorial/hello/obj/",
+      "outputPath": "/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hugh/.nuget/NuGet/NuGet.Config"

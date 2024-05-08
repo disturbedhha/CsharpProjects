@@ -1,11 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int[] numbers = { 200, 100, 500, 10, 15, 9 };
-var sum = 0;
+string[] student = new string[] { "Juan", "Sebastian", "Carlos", "Sofia", "Maria" };
+double[] score = new double[] { 3.4, 3.0, 4.1, 4.8, 2.9 };
 
-foreach (int items in numbers){
-    sum += items;
+Console.WriteLine("Student \tGrade \tLetter Grade");
+foreach (string students in student){
+    Console.WriteLine(students);
+    foreach (double scores in score){
+        Console.Write($"\t\t{scores}");
+    }
 }
 
-Console.WriteLine(sum);
 
 

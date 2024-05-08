@@ -1,0 +1,15 @@
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/Debug/net8.0/gradeRegister.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/Debug/net8.0/gradeRegister.AssemblyInfoInputs.cache
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/Debug/net8.0/gradeRegister.AssemblyInfo.cs
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/Debug/net8.0/gradeRegister.csproj.CoreCompileInputs.cache
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/Debug/net8.0/gradeRegister.sourcelink.json
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/bin/Debug/net8.0/gradeRegister
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/bin/Debug/net8.0/gradeRegister.deps.json
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/bin/Debug/net8.0/gradeRegister.runtimeconfig.json
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/bin/Debug/net8.0/gradeRegister.dll
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/bin/Debug/net8.0/gradeRegister.pdb
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/Debug/net8.0/gradeRegister.dll
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/Debug/net8.0/refint/gradeRegister.dll
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/Debug/net8.0/gradeRegister.pdb
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/Debug/net8.0/gradeRegister.genruntimeconfig.cache
+/home/hugh/Documents/csharpProjects/tutorial/gradeRegister/obj/Debug/net8.0/ref/gradeRegister.dll

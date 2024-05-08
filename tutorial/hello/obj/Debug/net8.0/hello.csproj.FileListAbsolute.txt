@@ -1,0 +1,15 @@
+/home/hugh/Documents/csharpProjects/tutorial/hello/bin/Debug/net8.0/hello
+/home/hugh/Documents/csharpProjects/tutorial/hello/bin/Debug/net8.0/hello.deps.json
+/home/hugh/Documents/csharpProjects/tutorial/hello/bin/Debug/net8.0/hello.runtimeconfig.json
+/home/hugh/Documents/csharpProjects/tutorial/hello/bin/Debug/net8.0/hello.dll
+/home/hugh/Documents/csharpProjects/tutorial/hello/bin/Debug/net8.0/hello.pdb
+/home/hugh/Documents/csharpProjects/tutorial/hello/obj/Debug/net8.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugh/Documents/csharpProjects/tutorial/hello/obj/Debug/net8.0/hello.AssemblyInfoInputs.cache
+/home/hugh/Documents/csharpProjects/tutorial/hello/obj/Debug/net8.0/hello.AssemblyInfo.cs
+/home/hugh/Documents/csharpProjects/tutorial/hello/obj/Debug/net8.0/hello.csproj.CoreCompileInputs.cache
+/home/hugh/Documents/csharpProjects/tutorial/hello/obj/Debug/net8.0/hello.sourcelink.json
+/home/hugh/Documents/csharpProjects/tutorial/hello/obj/Debug/net8.0/hello.dll
+/home/hugh/Documents/csharpProjects/tutorial/hello/obj/Debug/net8.0/refint/hello.dll
+/home/hugh/Documents/csharpProjects/tutorial/hello/obj/Debug/net8.0/hello.pdb
+/home/hugh/Documents/csharpProjects/tutorial/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
+/home/hugh/Documents/csharpProjects/tutorial/hello/obj/Debug/net8.0/ref/hello.dll
