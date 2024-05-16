@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hugh/Documents/csharpProjects/tutorial/calculator/calculator.csproj",
-      "projectName": "calculator",
-      "projectPath": "/home/hugh/Documents/csharpProjects/tutorial/calculator/calculator.csproj",
+      "projectUniqueName": "/home/hugh/Documents/csharpProjects/tutorial/resistorColors/resistorColors.csproj",
+      "projectName": "resistorColors",
+      "projectPath": "/home/hugh/Documents/csharpProjects/tutorial/resistorColors/resistorColors.csproj",
       "packagesPath": "/home/hugh/.nuget/packages/",
-      "outputPath": "/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/",
+      "outputPath": "/home/hugh/Documents/csharpProjects/tutorial/resistorColors/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hugh/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/home/hugh/Documents/csharpProjects/tutorial/calculator/bin/Debug/net8.0/calculator
+/home/hugh/Documents/csharpProjects/tutorial/calculator/bin/Debug/net8.0/calculator.deps.json
+/home/hugh/Documents/csharpProjects/tutorial/calculator/bin/Debug/net8.0/calculator.runtimeconfig.json
+/home/hugh/Documents/csharpProjects/tutorial/calculator/bin/Debug/net8.0/calculator.dll
+/home/hugh/Documents/csharpProjects/tutorial/calculator/bin/Debug/net8.0/calculator.pdb
+/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/Debug/net8.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/Debug/net8.0/calculator.AssemblyInfoInputs.cache
+/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/Debug/net8.0/calculator.AssemblyInfo.cs
+/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/Debug/net8.0/calculator.csproj.CoreCompileInputs.cache
+/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/Debug/net8.0/calculator.sourcelink.json
+/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/Debug/net8.0/calculator.dll
+/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/Debug/net8.0/refint/calculator.dll
+/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/Debug/net8.0/calculator.pdb
+/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/Debug/net8.0/calculator.genruntimeconfig.cache
+/home/hugh/Documents/csharpProjects/tutorial/calculator/obj/Debug/net8.0/ref/calculator.dll

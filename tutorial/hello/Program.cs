@@ -1,14 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-string[] student = new string[] { "Juan", "Sebastian", "Carlos", "Sofia", "Maria" };
-double[] score = new double[] { 3.4, 3.0, 4.1, 4.8, 2.9 };
+﻿string permission = "Admin|Manager";
+int level = 55;
 
-Console.WriteLine("Student \tGrade \tLetter Grade");
-foreach (string students in student){
-    Console.WriteLine(students);
-    foreach (double scores in score){
-        Console.Write($"\t\t{scores}");
-    }
-}
-
-
-
+Console.WriteLine((level > 55) ? "Welcome, Super Admin user" : "Welcome Admin user");
